@@ -5,7 +5,6 @@ import { Product } from '../product.model';
   // tslint:disable-next-line:component-selector
   selector: 'product-row',
   templateUrl: './product-row.component.html',
-  styleUrls: ['./product-row.component.css']
 })
 export class ProductRowComponent {
   @Input()
